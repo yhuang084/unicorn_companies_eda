@@ -20,7 +20,9 @@ Unicorns in the media & entertainment industry have the highest average valuatio
 ![Number of Companies that Became Unicorns Before and After the Pandemic by Industry](https://live.staticflickr.com/65535/53237065598_7e2ee761c9_z.jpg)
 
 Investors appreciate the technology industry's lucrative opportunities for long-term growth and resiliency during economic downturns. Our data shows that the technology industry outperforms other service industries (financial services, healthcare and insurance). During and post-Pandemic era. 229, or 318% more tech companies have become unicorns since the Pandemic.
+
 ![Average Valuation and Number of Companies That Became Unicorns](https://live.staticflickr.com/65535/53235906112_64461c0513_z.jpg)
+
 Across all industries, there has been an upsurge in newly unicorns since 2020. But those newcomers don't necessarily have a high average valuation. We do see some companies in some industries soar during the Pandemic and grow significantly enough to become a unicorn, but more established companies are more preferred by investors. Quality does matter more than quantity.
 
 **3. Where are most of unicorn located? What are the top industries in the top countries?**
