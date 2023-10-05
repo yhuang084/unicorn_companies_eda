@@ -12,6 +12,7 @@ Exploratory data analysis (EDA) is important because it helps an analyst to know
 
 **1. Are some industries associated with a higher average valuation?**
 ![Number of unicorns by industry](https://live.staticflickr.com/65535/53237134214_6230664ddb_z.jpg)
+
 ![Average unicorn valuation by industry](https://live.staticflickr.com/65535/53236763111_f8cf5451c1_z.jpg)
 
 Unicorns in the media & entertainment industry have the highest average valuation of $6.14 billion, followed by those in financial services and industrials. Although technology companies makes a third of the list, they don't necessarily have the highest valuation.
@@ -26,7 +27,7 @@ Investors appreciate the technology industry's lucrative opportunities for long-
 Across all industries, there has been an upsurge in newly unicorns since 2020. But those newcomers don't necessarily have a high average valuation. We do see some companies in some industries soar during the Pandemic and grow significantly enough to become a unicorn, but more established companies are more preferred by investors. Quality does matter more than quantity.
 
 **3. Where are most of unicorn located? What are the top industries in the top countries?**
-![Top 10 Countries with Most Unicorns]([https://live.staticflickr.com/65535/53237259240_a2a3a07f31_c.jpg](https://live.staticflickr.com/65535/53237259240_87080d09e3_o.png))
+![Top 10 Countries with Most Unicorns](https://live.staticflickr.com/65535/53237259240_87080d09e3_o.png)
 
 North America and Europe are home to many unicorns. US-based companies alone makes 53% of the list. China and India are the only two developing countries on the top 10 list. Both emerging countries have a large amount of cheap labour with relatively high education levels. 
     
