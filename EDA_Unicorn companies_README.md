@@ -3,7 +3,7 @@
 Yuejia Huang (github.com/yhuang084)
 ## Purpose
 A unicorn comapny is a privately held startup company valued at over US$1 billion. Unicorns have been gaining a lot of (capital) attention. According to PwC (https://www.pwc.com/gx/en/about/new-ventures/unicorns-five-trends.html), the growth in pre-IPO financing has led to an increase in IPO funding, and as a result, average unicorn IPO proceeds have nearly quadrupled since 2016, from $234 million to $1 billion. Studying those unicorns will help future investors have a better understanding and make the next move wisely in the capital market.
-This project is to conduct exploratory data analysis on a dataset that contains information on global unicorn companies* from 2007 to September 2023. The data is extracted from CBsight (https://www.cbinsights.com/research-unicorn-companies).
+This project is to conduct exploratory data analysis on a dataset that contains information on global unicorn companies from 2007 to September 2023. The data is extracted from CBsight (https://www.cbinsights.com/research-unicorn-companies).
 
 ## Goal
 Exploratory data analysis (EDA) is important because it helps an analyst to know the data, clean its missing data, fix its incorrect data and prepare it for future modeling. The project is to clean the dataset and answer questions using visualizations.
