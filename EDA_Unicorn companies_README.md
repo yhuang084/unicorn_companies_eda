@@ -36,6 +36,7 @@ In the U.S., Industrials is the top industry with an average valuation of $4.33 
 ![Top Unicorn Company Investors&#x27; Portfolio](https://live.staticflickr.com/65535/53236763136_4f4135cdb3_c.jpg)
 
 Sequoia Capital, Tiger Global Management and Accel are the top investors. Sequoia Capital and Accel's top choice are those in the technology industry, while Tiger Global Management invested equally in consumer & retail, financial services and technology industries. Sequoia and Accel's investment presence is more geographically diversified and have invested in more countries than Tiger Global Management, Sequoia is the only investor that has invested in Africa. Acel is the only investor to not have any unicorn investment in Oceania so far. 
+
 ![Countries Which Top Investors Invested in](https://live.staticflickr.com/65535/53236763141_e09251b253_c.jpg)
 
 The highest valued unicorned invested in by Sequoia Capital are Chinese technology company ByteDance, Singaporean retail company SHEIN and Australian technology company Canvas. The highest valued unicorned invested in by Tiger Global Management are SHEIN, American consumer product company JUUL Labs and British financial services company Checkout.com.The highest valued unicorned invested in by Accel are American technology company Miro, Chinese technology company DJI Innovations and American consumer product company Gopuff.
